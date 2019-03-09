@@ -1,0 +1,7 @@
+[package]
+name = "rgorithms"
+version = "0.1.0"
+authors = ["maikiichan <maikiilion@gmail.com>"]
+edition = "2018"
+
+[dependencies]
